@@ -26,14 +26,13 @@ import com.alee.laf.WebLookAndFeel;
 import de.joergjahnke.common.extendeddevices.WavePlayer;
 import de.joergjahnke.gameboy.core.Gameboy;
 import de.joergjahnke.gameboy.swing.GameboyFrame;
-import net.java.games.input.*;
-import net.java.games.input.Component;
+
 import sun.awt.image.InputStreamImageSource;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-import net.java.games.*;
+
 
 
 /**
