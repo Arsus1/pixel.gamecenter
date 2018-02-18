@@ -1,0 +1,1 @@
+Joystik works only when you run project in the same directory with dll's.
